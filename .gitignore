@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/106-1-web-demo-01.iml
+.idea/inspectionProfiles/
+.idea/modules.xml
+.idea/workspace.xml
+Images/
+index.html
+interest.html
